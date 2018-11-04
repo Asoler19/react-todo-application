@@ -7,7 +7,7 @@
     "react-dom": "^16.6.0",
     "react-materialize": "^2.4.8",
     "react-scripts": "2.1.1",
-    "homepage" : "http://myname.github.io/react-to-do"
+    "homepage" : "http://myname.github.io/react-todo-application"
   },
   "scripts": {
     "start": "react-scripts start",
