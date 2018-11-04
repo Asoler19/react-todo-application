@@ -7,7 +7,7 @@
     "react-dom": "^16.6.0",
     "react-materialize": "^2.4.8",
     "react-scripts": "2.1.1",
-    "homepage" : "http://myname.github.io/react-todo-application"
+    "homepage": "http://asoler19.github.io/react-todo-application"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -23,5 +23,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
